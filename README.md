@@ -19,3 +19,9 @@ A simple CLI calculator written in c++.
 
 ## controller
 A controller I made with an arduino uno to work with racing fire.
+
+## flowing-display
+A piece of code written for the arduino uno to control a led bar graph.
+
+## wifi-test
+A piece of code written to test the WiFi functionality of an esp8266.
