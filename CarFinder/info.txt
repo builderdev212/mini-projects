@@ -1,0 +1,2858 @@
+
+2021: 3
+	accessories-interior
+		NHTSA Complaints: 2
+			Seats - 2
+		User Complaints: 1
+	body_paint
+		NHTSA Complaints: 2
+			Structure: Body - 2
+		User Complaints: 1
+			Rear Cargo Deck Board Buckles - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 3
+			Air Bags - 3
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 19
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 8
+			Fuel System, Gasoline: Storage - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 7
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 7
+		User Complaints: 0
+	electrical
+		NHTSA Complaints: 0
+			Electrical System - 6
+		User Complaints: 0
+	brakes
+		NHTSA Complaints: 0
+			Service Brakes - 6
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 3
+		User Complaints: 0
+	engine
+		NHTSA Complaints: 0
+			Vehicle Speed Control - 2
+			Engine - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 1
+			Tires: Pressure Monitoring And Regulating Systems - 1
+			Wheels - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 1
+		User Complaints: 0
+
+2020: 12
+	electrical
+		NHTSA Complaints: 53
+			Electrical System - 53
+		User Complaints: 6
+			Dead Battery - 3
+			Multiple Warning Lights - 1
+			Soy Based Wiring - 1
+	accessories-exterior
+		NHTSA Complaints: 8
+			Visibility/Wiper - 6
+			Visibility: Rearview Mirrors/Devices - 1
+			Visibility: Rearview Mirrors/Devices: Exterior - 1
+		User Complaints: 1
+			Driver Side Mirror Rattle - 1
+	brakes
+		NHTSA Complaints: 9
+			Service Brakes - 7
+			Electronic Stability Control - 2
+		User Complaints: 1
+			Brake Noise At Declines - 1
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Coolant Reservoir Tank Leak - 1
+	engine
+		NHTSA Complaints: 20
+			Engine - 14
+			Vehicle Speed Control - 4
+			Engine And Engine Cooling - 2
+		User Complaints: 1
+			Engine Wiring Damage - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 4
+			Air Bags - 4
+		User Complaints: 1
+			SRS Airbag Malfunction - 1
+	windows_windshield
+		NHTSA Complaints: 2
+			Visibility: Sun/Moon Roof Assembly - 2
+		User Complaints: 1
+			Windshield Cracks Easily - 1
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 76
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 36
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 13
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 9
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 6
+		User Complaints: 0
+	accessories-interior
+		NHTSA Complaints: 0
+			Seats - 3
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 2
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 1
+		User Complaints: 0
+
+2019: 99
+	transmission
+		NHTSA Complaints: 0
+		User Complaints: 43
+			Gear Stuck At Park - 1
+			Shifting Roughly - 1
+			Slipping - 1
+	engine
+		NHTSA Complaints: 55
+			Engine - 39
+			Vehicle Speed Control - 16
+		User Complaints: 10
+			Loud Acceleration - 6
+			Excessive Oil Consumption - 1
+			Loud Engine - 1
+			Strong Burning Plastic Smell - 1
+	accessories-exterior
+		NHTSA Complaints: 12
+			Visibility/Wiper - 11
+			Visibility: Rearview Mirrors/Devices: Exterior - 1
+		User Complaints: 7
+			Distorted Side Mirror - 4
+			Side Mirrors Vibrate - 2
+			Side Mirrors Rattle - 1
+	drivetrain
+		NHTSA Complaints: 45
+			Power Train - 45
+		User Complaints: 7
+			Awd System Malfunction 2wd Engaged - 1
+			Groan And Buzzing Noises - 1
+			Thumping Noise - 1
+	accessories-interior
+		NHTSA Complaints: 5
+			Seats - 3
+			Seats: Front Assembly: Seat Heater/Cooler - 2
+		User Complaints: 6
+			Dash Trim Causes Glare - 1
+			Missing Android Auto - 1
+			Noise From Sun Visor - 1
+			Speedometer Is Inaccurate - 1
+	fuel_system
+		NHTSA Complaints: 235
+			Fuel/Propulsion System - 222
+			Fuel System, Gasoline - 12
+			Fuel System, Diesel - 1
+		User Complaints: 6
+			Gas Gauge Never Shows Full - 6
+	brakes
+		NHTSA Complaints: 30
+			Service Brakes - 24
+			Electronic Stability Control - 6
+		User Complaints: 5
+			Brakes Grab - 2
+			Parking Brake Malfunction - 1
+			Seized Caliper - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 3
+			A/C Does Not Work At Idle - 1
+			Musty Odor Coming From A/C - 1
+			Unpleasant Odor From Heater - 1
+	body_paint
+		NHTSA Complaints: 26
+			Structure: Body - 25
+			Structure - 1
+		User Complaints: 3
+			Excessive Wind Noise - 1
+			Paint Chips Easy - 1
+	electrical
+		NHTSA Complaints: 31
+			Electrical System - 30
+			Electrical System: Instrument Cluster/Panel - 1
+		User Complaints: 3
+			Auto Door Lock Doesn't Work - 1
+			Key Fob Not Detected - 1
+			TPMS System Malfunction - 1
+	miscellaneous
+		NHTSA Complaints: 63
+			Unknown Or Other - 63
+		User Complaints: 3
+			Lta Malfunction (Lane Assist Dead) - 1
+			Sun Visor Vibration Noise - 1
+	windows_windshield
+		NHTSA Complaints: 2
+			Visibility: Sun/Moon Roof Assembly - 2
+		User Complaints: 2
+			Windshield Crack/Chips - 1
+			Wipers Start By Themselves - 1
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Coolant Leaking - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 23
+			Seat Belts - 3
+			Air Bags: Side/Window: Curtain - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 14
+			Suspension: Front: Control Arm: Lower Arm - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 14
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels - 4
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 2
+		User Complaints: 0
+
+2018: 27
+	body_paint
+		NHTSA Complaints: 7
+			Structure: Body - 6
+			Structure - 1
+		User Complaints: 5
+			Paint Chips And Scratches - 4
+			Water Damage From Leak In Cabin - 1
+	brakes
+		NHTSA Complaints: 26
+			Service Brakes - 24
+			Electronic Stability Control - 2
+		User Complaints: 5
+			Brakes Make Grinding Noise - 2
+			Pulls While Braking - 1
+			Uneven Brake Wear - 1
+	engine
+		NHTSA Complaints: 34
+			Vehicle Speed Control - 17
+			Engine - 16
+			Vehicle Speed Control: Accelerator Pedal - 1
+		User Complaints: 4
+			Vehicle Stalls For No Reason - 2
+			Loud Knock During Startup - 1
+			Revving - 1
+	steering
+		NHTSA Complaints: 8
+			Steering - 8
+		User Complaints: 4
+			Pulls To One Side From Stop - 2
+			Check Light And Traction Control - 1
+			Knocking Sound While Turning - 1
+	transmission
+		NHTSA Complaints: 0
+		User Complaints: 3
+			Transmission Bearing Seized - 1
+			Transmission Failed - 1
+	accessories-interior
+		NHTSA Complaints: 3
+			Seats - 2
+			Equipment - 1
+		User Complaints: 2
+			Radio/Speakers - 1
+	electrical
+		NHTSA Complaints: 35
+			Electrical System - 33
+			Electrical System: 12v/24v/48v Battery - 2
+		User Complaints: 2
+			Charging System Failure - 1
+			Electrical Harness Failure - 1
+	lights
+		NHTSA Complaints: 19
+			Exterior Lighting - 18
+			Exterior Lighting: Headlights - 1
+		User Complaints: 1
+			Poor Illumination - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 14
+			Air Bags - 11
+			Seat Belts - 3
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 33
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 17
+			Visibility: Rearview Mirrors/Devices: Exterior - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 15
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 9
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 4
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Sun/Moon Roof Assembly - 3
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 2
+			Wheels - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 1
+		User Complaints: 0
+
+2017: 59
+	transmission
+		NHTSA Complaints: 0
+		User Complaints: 11
+			Jumping Gears - 3
+			Rough Shifting - 3
+			Transmission Slips And Jerks - 3
+			Transmission Failure - 2
+	steering
+		NHTSA Complaints: 5
+			Steering - 5
+		User Complaints: 10
+			Pulls To One Side - 8
+			Knocking Noise When Turning - 1
+			Steering Lock Up - 1
+	windows_windshield
+		NHTSA Complaints: 1
+			Visibility: Defroster/Defogger/Hvac System - 1
+		User Complaints: 7
+			Poor Windshield Visibility - 4
+			Sunroof Blew Out - 2
+			Windshield Has Pressure Crack - 1
+	electrical
+		NHTSA Complaints: 43
+			Electrical System - 41
+			Electrical System: Cybersecurity - 1
+			Electrical System: Instrument Cluster/Panel - 1
+		User Complaints: 6
+			Electric Door Lock Failure - 1
+			Wires Chewed By Rodents - 1
+	lights
+		NHTSA Complaints: 25
+			Exterior Lighting - 25
+		User Complaints: 6
+			Poor Headlights - 5
+			Keep Having To Replace Headlights - 1
+	accessories-interior
+		NHTSA Complaints: 2
+			Seats - 2
+		User Complaints: 4
+			Cd Player Not Working Properly - 1
+			Radio Not Working Properly - 1
+	engine
+		NHTSA Complaints: 22
+			Engine - 15
+			Vehicle Speed Control - 5
+			Engine And Engine Cooling - 1
+			Vehicle Speed Control: Cruise Control - 1
+		User Complaints: 4
+			Engine Stalls While Driving - 2
+			Excessive Engine Noise - 1
+	brakes
+		NHTSA Complaints: 30
+			Service Brakes - 28
+			Traction Control System - 2
+		User Complaints: 3
+			Intermittent Brake Noise - 2
+			Brake Noise And Premature Wear - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 2
+			A/C Blowing Hot Air - 1
+	miscellaneous
+		NHTSA Complaints: 33
+			Unknown Or Other - 33
+		User Complaints: 2
+			Rodent Chewed Washer Hose - 1
+	accessories-exterior
+		NHTSA Complaints: 10
+			Visibility/Wiper - 10
+		User Complaints: 1
+			Side Mirror Blocks View - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 15
+			Air Bags - 12
+			Seat Belts - 3
+		User Complaints: 1
+	suspension
+		NHTSA Complaints: 4
+			Suspension - 4
+		User Complaints: 1
+			Left Strut Failure - 1
+	wheels_hubs
+		NHTSA Complaints: 9
+			Wheels - 8
+			Tires - 1
+		User Complaints: 1
+			Rims Discolored - 1
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 12
+			Structure - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 9
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 5
+		User Complaints: 0
+
+2016: 38
+	accessories-interior
+		NHTSA Complaints: 2
+			Seats - 2
+		User Complaints: 5
+			Cruise Control Is Very Erratic - 2
+			Cruise Control Faulty - 1
+			Navigation System Stinks - 1
+			Radio Display Not Working - 1
+	brakes
+		NHTSA Complaints: 43
+			Service Brakes - 39
+			Electronic Stability Control - 3
+			Service Brakes, Hydraulic - 1
+		User Complaints: 5
+			Lurched While Braking - 3
+			Lost Brake Pedal Pressure - 2
+	engine
+		NHTSA Complaints: 25
+			Engine - 14
+			Vehicle Speed Control - 11
+		User Complaints: 5
+			Engine Loses Power When Turning - 3
+			Engine Leaking Oil - 1
+			Unintended Acceleration - 1
+	transmission
+		NHTSA Complaints: 1
+			Power Train: Automatic Transmission: Torque Converter - 1
+		User Complaints: 5
+			Transmission Failure - 3
+	body_paint
+		NHTSA Complaints: 8
+			Structure: Body - 7
+			Structure: Body: Hatchback/Liftgate - 1
+		User Complaints: 4
+			Trunk Won't Open - 2
+			Paint Easily Chips - 1
+			Rust - 1
+	steering
+		NHTSA Complaints: 8
+			Steering - 8
+		User Complaints: 4
+			Pulls To One Side - 3
+	lights
+		NHTSA Complaints: 22
+			Exterior Lighting - 22
+		User Complaints: 2
+			Headlights Are Too Dim - 1
+			Tail Lights Fogging - 1
+	suspension
+		NHTSA Complaints: 2
+			Suspension - 2
+		User Complaints: 2
+			Front Shaking At Highway Speed - 1
+			Noise From Suspension - 1
+	windows_windshield
+		NHTSA Complaints: 4
+			Visibility: Sun/Moon Roof Assembly - 4
+		User Complaints: 2
+			Excessive Wind Noise While Driving - 1
+			Sunroof Leaks - 1
+	accessories-exterior
+		NHTSA Complaints: 11
+			Visibility/Wiper - 11
+		User Complaints: 1
+			Tailgate Not Working Properly - 1
+	drivetrain
+		NHTSA Complaints: 5
+			Power Train - 5
+		User Complaints: 1
+	electrical
+		NHTSA Complaints: 21
+			Electrical System - 21
+		User Complaints: 1
+			Rodents Eating Soy-Based Wires - 1
+	fuel_system
+		NHTSA Complaints: 4
+			Fuel/Propulsion System - 2
+			Fuel System, Gasoline: Delivery: Fuel Pump - 1
+			Fuel System, Gasoline: Storage: Evaporative Emissions: ... - 1
+		User Complaints: 1
+			Poor Mpg - 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 24
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 13
+		User Complaints: 0
+
+2015: 71
+	body_paint
+		NHTSA Complaints: 24
+			Structure: Body - 21
+			Structure - 2
+			Structure: Body: Hood: Hinge And Attachments - 1
+		User Complaints: 17
+			Paint Chips Easily - 5
+			Clear Coat Is Bubbling - 3
+			Rust Spots - 3
+			Loud Wind Noise - 2
+			4 Door Latches Failed - 1
+			Debris In Door Jamb - 1
+			Rodent Issue - 1
+	brakes
+		NHTSA Complaints: 35
+			Service Brakes - 29
+			Electronic Stability Control - 4
+			Service Brakes, Hydraulic - 2
+		User Complaints: 15
+			Brake Clicking Noise - 4
+			Brake Failure - 4
+			Brakes Squeak - 3
+			Poor Brakes - 3
+			Premature Brake Wear - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 7
+			A/C/Heater Not Working Properly - 3
+			Foul Odor - 3
+			Blower Stopped Working - 1
+	accessories-interior
+		NHTSA Complaints: 1
+			Equipment Adaptive/Mobility - 1
+		User Complaints: 7
+			Connectivity Issues - 2
+			Deteriorating Upholstery - 1
+			Steering Wheel Fading - 1
+	engine
+		NHTSA Complaints: 40
+			Engine - 24
+			Vehicle Speed Control - 16
+		User Complaints: 7
+			Unintended Acceleration - 3
+			Severe Hesitation - 2
+			Excessive Oil Consumption - 1
+			Loss Of Power While Driving - 1
+	windows_windshield
+		NHTSA Complaints: 3
+			Visibility: Sun/Moon Roof Assembly - 2
+			Visibility - 1
+		User Complaints: 6
+			Moonroof Leaks - 5
+			Moon Roof Drains Plug Up - 1
+	fuel_system
+		NHTSA Complaints: 10
+			Fuel/Propulsion System - 10
+		User Complaints: 5
+			Fuel Leak Caused By Rodents - 1
+			Gas Tank Not Proper Size - 1
+			Inaccurate Gas Tank Reading - 1
+			Noisy Gas Tank - 1
+	electrical
+		NHTSA Complaints: 36
+			Electrical System - 35
+			Electrical System: Ignition - 1
+		User Complaints: 3
+			Wiring Chewed By Rodents - 1
+			Wouldn't Start - 1
+	steering
+		NHTSA Complaints: 31
+			Steering - 31
+		User Complaints: 2
+			Lane Drift At Highway Speed - 1
+			Power Steering Locking Up - 1
+	lights
+		NHTSA Complaints: 3
+			Exterior Lighting - 3
+		User Complaints: 1
+			Poor Lighting Pattern - 1
+	wheels_hubs
+		NHTSA Complaints: 2
+			Wheels - 2
+		User Complaints: 1
+			Excessive Noise - 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 37
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 14
+			Seat Belts - 4
+			Air Bags: Frontal - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 12
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 5
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 3
+		User Complaints: 0
+
+2014: 105
+	accessories-interior
+		NHTSA Complaints: 5
+			Seats - 3
+			Equipment - 1
+			Equipment: Electrical: Nav System (GPS) - 1
+		User Complaints: 48
+			Stereo Not Working - 24
+			Poor Instrument Panel Illumination - 2
+	body_paint
+		NHTSA Complaints: 10
+			Structure: Body - 7
+			Structure - 1
+			Structure: Body: Door  - 1
+			Structure: Body: Hatchback/Liftgate - 1
+		User Complaints: 21
+			Paint Chipped - 4
+			Loud Road Noise Heard Inside - 2
+			Water Leaking Into Cabin - 2
+			Bumpers Don't Protect Vehicle - 1
+			Hood Release Doesn't Work - 1
+			Liftgate Hinge Failed - 1
+			Liftgate Rust - 1
+			Paint Is Coming Off - 1
+			Undercarriage Protector Fell Off - 1
+	brakes
+		NHTSA Complaints: 14
+			Service Brakes - 11
+			Electronic Stability Control - 2
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 1
+		User Complaints: 7
+			Brake Noise - 3
+			Scraping Noise From Calipers - 3
+			Premature Brake Wear - 1
+	electrical
+		NHTSA Complaints: 39
+			Electrical System - 37
+			Electrical System: 12v/24v/48v Battery - 1
+			Electrical System: Instrument Cluster/Panel - 1
+		User Complaints: 7
+			Stereo Not Working Properly - 6
+			Shut Off While Driving - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 5
+			Mildew Odor From Vent - 4
+			A/C Not Working - 1
+	engine
+		NHTSA Complaints: 29
+			Engine - 22
+			Vehicle Speed Control - 7
+		User Complaints: 5
+			Engine Loses Power - 3
+			Unintended Acceleration - 1
+	transmission
+		NHTSA Complaints: 0
+		User Complaints: 4
+			Transmission Slipping - 2
+			Loss Of Power - 1
+			Noise From Transmission - 1
+	windows_windshield
+		NHTSA Complaints: 2
+			Visibility: Sun/Moon Roof Assembly - 2
+		User Complaints: 3
+			Sunroof Exploded - 2
+			Sunroof Water Leak - 1
+	accessories-exterior
+		NHTSA Complaints: 6
+			Visibility/Wiper - 5
+			Latches/Locks/Linkages - 1
+		User Complaints: 2
+			Dash Lights Too Dim At 100% On - 1
+	lights
+		NHTSA Complaints: 5
+			Exterior Lighting - 5
+		User Complaints: 2
+			Installing Fog Lights - 1
+			Poor Headlight Illumination - 1
+	fuel_system
+		NHTSA Complaints: 4
+			Fuel/Propulsion System - 4
+		User Complaints: 1
+			Poor Gas Mileage - 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 37
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 14
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 11
+			Seat Belts - 2
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 11
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels - 2
+			Tires - 1
+		User Complaints: 0
+
+2013: 128
+	accessories-interior
+		NHTSA Complaints: 16
+			Equipment: Electrical: Nav System (GPS) - 12
+			Equipment Adaptive/Mobility - 2
+			Equipment: Electrical - 1
+			Seats - 1
+		User Complaints: 35
+			Navigation Display - 13
+			Glove Box Won't Open - 4
+			Center Console Scratches Easily - 3
+			Mpg Gauge Inaccurate - 2
+			Radio Stopped Working - 2
+			Blue Tooth Is Not Voice Activated - 1
+			Bluetooth Not Working Properly - 1
+			Cd Stuck - 1
+			Console Slides Back And Forth - 1
+			Inadequate Insulation In Cabin - 1
+			Poor Interior Lighting - 1
+			Static Sound From Dash Board - 1
+	body_paint
+		NHTSA Complaints: 21
+			Structure: Body - 12
+			Structure - 8
+			Structure: Body: Door  - 1
+		User Complaints: 27
+			Paint Is Coming Off - 9
+			Dirt Inside Doors - 4
+			Poor Hood Support, Vibration - 3
+			Water Leak - 3
+			Roof Rack Molding Came Loose - 1
+	transmission
+		NHTSA Complaints: 1
+			Power Train: Automatic Transmission: Torque Converter - 1
+		User Complaints: 22
+			Vibration At All Different Speeds - 7
+			Car Moves After Putting Into Park - 3
+			Transmission Failure - 2
+			Transmission Leak - 1
+			Unintentional Shifting - 1
+	brakes
+		NHTSA Complaints: 24
+			Service Brakes - 19
+			Electronic Stability Control - 3
+			Service Brakes, Hydraulic - 2
+		User Complaints: 12
+			Clunking Noise When Braking - 5
+			Grinding Noise Rear Brake - 5
+			Brakes Are Soft - 1
+			Electronic Stability Control - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 11
+			A/C/Heater Not Working Properly - 1
+	engine
+		NHTSA Complaints: 38
+			Engine - 19
+			Vehicle Speed Control - 17
+			Engine And Engine Cooling - 2
+		User Complaints: 6
+			Sudden Unintended Acceleration - 4
+	windows_windshield
+		NHTSA Complaints: 6
+			Visibility: Sun/Moon Roof Assembly - 4
+			Visibility: Power Window Devices And Controls - 2
+		User Complaints: 6
+			Poor Windshield Quality - 3
+			Bad Windshield Seal - 1
+			Power Windows Failure - 1
+			Sunroof Exploded - 1
+	electrical
+		NHTSA Complaints: 48
+			Electrical System - 42
+			Electrical System: Instrument Cluster/Panel - 5
+			Electrical System: 12v/24v/48v Battery - 1
+		User Complaints: 3
+			Hatch Back Won’T Close - 1
+			Power Lift Gate Inoperable - 1
+			Warning Light Did Not Come On - 1
+	drivetrain
+		NHTSA Complaints: 22
+			Power Train - 22
+		User Complaints: 2
+			Thump At Acceleration - 1
+			Transmission Failure - 1
+	accessories-exterior
+		NHTSA Complaints: 9
+			Visibility/Wiper - 6
+			Latches/Locks/Linkages - 3
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 23
+			Unknown Or Other - 23
+		User Complaints: 1
+	steering
+		NHTSA Complaints: 10
+			Steering - 10
+		User Complaints: 1
+			Steering Failure While Driving - 1
+	suspension
+		NHTSA Complaints: 2
+			Suspension - 2
+		User Complaints: 1
+			Very Bumpy Ride On City Streets - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 10
+			Seat Belts - 4
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 7
+			Fuel System, Gasoline - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 4
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels - 3
+			Tires - 1
+		User Complaints: 0
+
+2012: 62
+	body_paint
+		NHTSA Complaints: 12
+			Structure: Body - 12
+		User Complaints: 18
+			Paint Came Off - 17
+	brakes
+		NHTSA Complaints: 44
+			Service Brakes - 31
+			Electronic Stability Control - 7
+			Service Brakes, Hydraulic - 4
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+			Traction Control System - 1
+		User Complaints: 11
+			Brakes Stopped Working - 2
+			Premature Brake Wear - 2
+			Soft Brake Pedal - 1
+	engine
+		NHTSA Complaints: 65
+			Vehicle Speed Control - 48
+			Engine - 17
+		User Complaints: 10
+			Sudden Acceleration While Braking - 5
+			Engine Turns Over, Won't Start - 1
+			Excessive Oil Consumption - 1
+			Noise From Engine - 1
+			Rough Idle - 1
+	accessories-interior
+		NHTSA Complaints: 5
+			Seats - 3
+			Equipment Adaptive/Mobility - 1
+			Equipment: Appliance: Air Conditioner - 1
+		User Complaints: 6
+			Broken Armrest - 1
+			Door Locks Not Working - 1
+			Excessive Interior Noise - 1
+			Fabric Seats Discolored - 1
+			Leather Trim Faulty - 1
+	suspension
+		NHTSA Complaints: 4
+			Suspension - 4
+		User Complaints: 6
+			Oil Leak From Rear Shock Absorber - 4
+			Suspension Thumps Periodically - 2
+	transmission
+		NHTSA Complaints: 0
+		User Complaints: 6
+			Acceleration When Braking - 5
+			Whining Noise - 1
+	fuel_system
+		NHTSA Complaints: 7
+			Fuel/Propulsion System - 7
+		User Complaints: 2
+			Sudden, Unwanted Acceleration - 2
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 1
+			A/C Condensate Drains On Floor - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 51
+			Seat Belts - 30
+			Air Bags - 21
+		User Complaints: 1
+	wheels_hubs
+		NHTSA Complaints: 4
+			Wheels - 2
+			Tires - 1
+			Tires: Temporary/Emergency Spare Tire - 1
+		User Complaints: 1
+			Premature Tire Wear - 1
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 49
+			Visibility: Rear Window Wiper/Washer: Motor - 1
+		User Complaints: 0
+	electrical
+		NHTSA Complaints: 0
+			Electrical System - 27
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 19
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 16
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 7
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility - 1
+			Visibility: Glass, Side/Rear - 1
+			Visibility: Windshield - 1
+			Visibility: Windshield Wiper/Washer: Motor - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 1
+			Exterior Lighting: Turn Signal - 1
+		User Complaints: 0
+
+2011: 55
+	body_paint
+		NHTSA Complaints: 13
+			Structure: Body - 11
+			Structure - 1
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 16
+			Paint Peeling - 14
+			Unibody Creak - 2
+	engine
+		NHTSA Complaints: 91
+			Vehicle Speed Control - 61
+			Engine - 27
+			Engine And Engine Cooling - 2
+			Vehicle Speed Control: Cruise Control - 1
+		User Complaints: 11
+			Unintended Acceleration - 2
+			Excessive Oil Consumption - 1
+	accessories-interior
+		NHTSA Complaints: 3
+			Seats - 3
+		User Complaints: 5
+			Cup Holders Are Massive - 1
+			Glove Box Doesn't Close Properly - 1
+			Radio Never Works In Cold Weather - 1
+			Sticky Accelerator Pedal - 1
+			Xm Radio Not On Vehicle - 1
+	suspension
+		NHTSA Complaints: 13
+			Suspension - 13
+		User Complaints: 4
+	brakes
+		NHTSA Complaints: 54
+			Service Brakes - 38
+			Electronic Stability Control - 9
+			Service Brakes, Hydraulic - 4
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+			Traction Control System - 1
+		User Complaints: 3
+			Brakes Failed - 1
+			Noise When Braking - 1
+			Premature Brake Wear - 1
+	electrical
+		NHTSA Complaints: 15
+			Electrical System - 13
+			Electrical System: Cybersecurity - 1
+			Electrical System: Wiring - 1
+		User Complaints: 3
+			Rodents Chewing Wiring - 2
+			Door Locks Not Working Properly - 1
+	transmission
+		NHTSA Complaints: 2
+			Power Train: Automatic Transmission - 1
+			Power Train: Automatic Transmission: Torque Converter - 1
+		User Complaints: 3
+			Whining Noise At Highway Speeds - 2
+			Output Shaft Seals Leaking - 1
+	drivetrain
+		NHTSA Complaints: 22
+			Power Train - 22
+		User Complaints: 2
+			Transaxle Leak - 1
+			Whining When Accerlating - 1
+	exhaust_system
+		NHTSA Complaints: 1
+			Engine And Engine Cooling: Exhaust System - 1
+		User Complaints: 2
+			Rust Spot In Muffler - 2
+	fuel_system
+		NHTSA Complaints: 11
+			Fuel/Propulsion System - 7
+			Fuel System, Gasoline - 4
+		User Complaints: 2
+			Water In Evaporative System - 2
+	wheels_hubs
+		NHTSA Complaints: 5
+			Wheels - 4
+			Tires - 1
+		User Complaints: 2
+			Premature Tire Wear - 1
+			Wheel Bearing Failure - 1
+	accessories-exterior
+		NHTSA Complaints: 47
+			Visibility/Wiper - 47
+		User Complaints: 1
+			Keyless Entry Not Working Properly - 1
+	windows_windshield
+		NHTSA Complaints: 2
+			Visibility: Power Window Devices And Controls - 1
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 1
+			Exploding Sunroof - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Seat Belts - 27
+			Air Bags - 16
+			Air Bags: Sensor: Occupant Classification - 2
+			Air Bags: Sensor: Occupant Classification: Front ... - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 12
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 9
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 1
+			Exterior Lighting: Turn Signal - 1
+		User Complaints: 0
+
+2010: 75
+	body_paint
+		NHTSA Complaints: 12
+			Structure: Body - 10
+			Structure - 1
+			Structure: Body: Door  - 1
+		User Complaints: 28
+			Paint Bubbling And Peeling - 21
+			Holes In Wheel Well Liner - 2
+			Blind Spot When Turning - 1
+			No Way To Tow - 1
+	engine
+		NHTSA Complaints: 105
+			Vehicle Speed Control - 73
+			Engine - 16
+			Engine And Engine Cooling - 8
+			Vehicle Speed Control: Accelerator Pedal - 7
+			Vehicle Speed Control: Cruise Control - 1
+		User Complaints: 10
+			Acceleration When Applying Brakes - 3
+			Excessive Oil Consumption - 2
+			Howling Noise When Starting - 2
+			Check Engine Light On - 1
+			Engine Oil Leak - 1
+			Slow Acceleration - 1
+	accessories-interior
+		NHTSA Complaints: 7
+			Seats - 3
+			Equipment - 1
+			Equipment: Appliance: Air Conditioner - 1
+			Interior Lighting - 1
+			Seats: Front Assembly: Seat Heater/Cooler - 1
+		User Complaints: 6
+			4x4 System Warning Light Flashing - 2
+			Radio Not Working Properly - 2
+			Melting Dashboard - 1
+	wheels_hubs
+		NHTSA Complaints: 16
+			Wheels - 10
+			Wheels: Rim  - 3
+			Tires: Pressure Monitoring And Regulating Systems - 2
+			Wheels: Lugs/Nuts/Bolts - 1
+		User Complaints: 6
+			Low Tire Pressure Light On - 3
+			Wheel Bearing Failure - 2
+			Tire Valves Leaking - 1
+	suspension
+		NHTSA Complaints: 97
+			Suspension - 91
+			Suspension: Front: Wheel Bearing  - 2
+			Suspension: Front: Hub - 1
+			Suspension: Front: Stabilizer Bar - 1
+			Suspension: Rear - 1
+			Suspension: Rear: Shock Absorber - 1
+		User Complaints: 5
+			Rear Suspension Bangs - 3
+			Premature Rear Suspension Failure - 2
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 3
+			Blower Stopped Working - 1
+			Horrible Odor From Vents - 1
+			Water Drips Onto Accelerator Pedal - 1
+	brakes
+		NHTSA Complaints: 37
+			Service Brakes, Hydraulic - 15
+			Service Brakes - 13
+			Electronic Stability Control - 4
+			Service Brakes, Hydraulic: Pedals And Linkages - 2
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+		User Complaints: 3
+			Brake Failure - 1
+			Squealing Noise - 1
+	transmission
+		NHTSA Complaints: 11
+			Power Train: Automatic Transmission - 11
+		User Complaints: 3
+			Transmission Failure - 3
+	windows_windshield
+		NHTSA Complaints: 4
+			Visibility - 2
+			Visibility: Power Window Devices And Controls - 1
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 3
+			Windshield Cracks Easily - 2
+			Window Stopped Working - 1
+	drivetrain
+		NHTSA Complaints: 24
+			Power Train - 22
+			Power Train: Driveline - 1
+			Power Train: Driveline: Differential Unit - 1
+		User Complaints: 2
+			Gear Slip No Code - 1
+	fuel_system
+		NHTSA Complaints: 19
+			Fuel/Propulsion System - 11
+			Fuel System, Gasoline - 8
+		User Complaints: 2
+			Filter In Filler Tube Bad - 1
+			Gas Mileage Not As Rated - 1
+	accessories-exterior
+		NHTSA Complaints: 23
+			Visibility/Wiper - 20
+			Latches/Locks/Linkages - 1
+			Trailer Hitches - 1
+			Visibility: Rear Window Wiper/Washer  - 1
+		User Complaints: 1
+	electrical
+		NHTSA Complaints: 13
+			Electrical System - 11
+			Electrical System: Alternator/Generator/Regulator - 2
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 33
+			Unknown Or Other - 33
+		User Complaints: 1
+	steering
+		NHTSA Complaints: 17
+			Steering - 16
+			Steering: Linkages: Tie Rod Assembly - 1
+		User Complaints: 1
+			Clunking When Turning - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 25
+			Seat Belts - 17
+			Air Bags: Frontal - 1
+			Air Bags: Frontal: Sensor/Control Module - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 1
+		User Complaints: 0
+
+2009: 67
+	body_paint
+		NHTSA Complaints: 13
+			Structure: Body - 10
+			Structure - 2
+			Structure: Frame And Members - 1
+		User Complaints: 17
+			Paint Peeling - 11
+			Excessive Chipping Paint - 4
+			Undercarriage Rusted - 1
+			Water Leaks Into Interior - 1
+	engine
+		NHTSA Complaints: 128
+			Vehicle Speed Control - 90
+			Engine - 23
+			Vehicle Speed Control: Accelerator Pedal - 8
+			Engine And Engine Cooling - 5
+			Engine And Engine Cooling: Engine - 2
+		User Complaints: 16
+			High Oil Consumption - 7
+			Accelerator Sticks - 5
+			Engine Failure - 3
+			Idling Roughly - 1
+	drivetrain
+		NHTSA Complaints: 20
+			Power Train - 17
+			Power Train: Driveline: Differential Unit - 3
+		User Complaints: 7
+			Whining Sound In Rear - 3
+			Rumble, Vibration - 2
+			Loud Squeaking Noise - 1
+			Makes A Rattle/Rumble - 1
+	transmission
+		NHTSA Complaints: 7
+			Power Train: Automatic Transmission - 7
+		User Complaints: 6
+			Rattling/Vibration - 2
+			Whining Noise - 2
+			Surging - 1
+			Unintentionally Slipped From Park - 1
+	steering
+		NHTSA Complaints: 25
+			Steering - 24
+			Steering: Linkages: Tie Rod Assembly - 1
+		User Complaints: 4
+			Popping At Low Speeds - 2
+			Lost Steering - 1
+			Noise When Turning - 1
+	brakes
+		NHTSA Complaints: 33
+			Service Brakes, Hydraulic - 17
+			Service Brakes - 10
+			Electronic Stability Control - 2
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 1
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+			Traction Control System - 1
+		User Complaints: 3
+			Brake Failure - 1
+			Premature Brake Wear - 1
+			Rotors Grinding - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 2
+			Foul Odor Coming From A/C - 1
+	cooling_system
+		NHTSA Complaints: 1
+			Engine And Engine Cooling: Cooling System - 1
+		User Complaints: 2
+			Water Pump Seal Leaking - 2
+	miscellaneous
+		NHTSA Complaints: 18
+			Unknown Or Other - 18
+		User Complaints: 2
+			Horrible Smell In Interior - 1
+	suspension
+		NHTSA Complaints: 50
+			Suspension - 49
+			Suspension: Front - 1
+		User Complaints: 2
+			Rear Tie Rod End Broke - 2
+	windows_windshield
+		NHTSA Complaints: 5
+			Visibility - 3
+			Visibility: Sun/Moon Roof Assembly - 2
+		User Complaints: 2
+			Windshield Cracks Easily - 2
+	accessories-exterior
+		NHTSA Complaints: 2
+			Visibility/Wiper - 2
+		User Complaints: 1
+			Sunroof Glass Flew Off - 1
+	accessories-interior
+		NHTSA Complaints: 6
+			Seats - 4
+			Equipment - 1
+			Equipment: Other: Labels - 1
+		User Complaints: 1
+	lights
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Headlights Are Totally Corroded - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 20
+			Air Bags - 12
+			Seat Belts - 7
+			Air Bags: Frontal - 1
+		User Complaints: 1
+			Air Bag Light On - 1
+	electrical
+		NHTSA Complaints: 0
+			Electrical System - 18
+			Electrical System: Wiring - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels - 9
+			Tires - 2
+			Tires: Pressure Monitoring And Regulating Systems - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel/Propulsion System - 6
+			Fuel System, Gasoline - 3
+		User Complaints: 0
+
+2008: 197
+	engine
+		NHTSA Complaints: 239
+			Engine - 127
+			Vehicle Speed Control - 91
+			Engine And Engine Cooling - 16
+			Engine And Engine Cooling: Engine - 5
+		User Complaints: 124
+			Excessive Oil Consumption - 114
+			Oil Leaking - 4
+			Engine Blew - 3
+			Lacks Power - 1
+			Loses Power While Driving - 1
+			Oxygen Sensor Went Out - 1
+	transmission
+		NHTSA Complaints: 6
+			Power Train: Automatic Transmission - 6
+		User Complaints: 14
+			Transmission Jerking - 6
+			Whining Noise From Transmission - 5
+			Rattling Noise - 1
+			Transmission Fluid Leaks - 1
+			Transmission Slipping - 1
+	exhaust_system
+		NHTSA Complaints: 3
+			Engine And Engine Cooling: Exhaust System: Manifold/Header/Muffler/Tail ... - 3
+		User Complaints: 12
+			Muffler Rusted Out - 5
+			Exaust Pipe Rotted - 2
+			Water In The Evaporator System - 2
+			Catalytic Converter Failure - 1
+			Heat Shield Coming Off - 1
+	brakes
+		NHTSA Complaints: 42
+			Service Brakes, Hydraulic - 16
+			Service Brakes - 14
+			Electronic Stability Control - 7
+			Service Brakes, Electric - 3
+			Service Brakes, Air - 1
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+		User Complaints: 9
+			Brake Is Very Weak - 3
+			Having Trouble Braking - 2
+	electrical
+		NHTSA Complaints: 24
+			Electrical System - 24
+		User Complaints: 7
+			Wiring Burned - 2
+			Battery Dies - 1
+			High Pitch Noise/Burnt Smell - 1
+			Low Battery Hard To Start - 1
+	steering
+		NHTSA Complaints: 70
+			Steering - 65
+			Steering: Linkages: Tie Rod Assembly - 3
+			Steering: Column - 1
+			Steering: Electric Power Assist System - 1
+		User Complaints: 5
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 4
+			Floor Is Soaked - 2
+	cooling_system
+		NHTSA Complaints: 1
+			Engine And Engine Cooling: Cooling System - 1
+		User Complaints: 4
+			Water Pump Leaking - 4
+	drivetrain
+		NHTSA Complaints: 33
+			Power Train - 30
+			Power Train: Driveline: Differential Unit - 2
+			Power Train: Transfer Case (4-Wheel Drive) - 1
+		User Complaints: 4
+			Coupler Clutches Whine - 1
+			Differential Gear Box Leak - 1
+			Growling Noises - 1
+			Humming - 1
+	suspension
+		NHTSA Complaints: 82
+			Suspension - 79
+			Suspension: Rear - 3
+		User Complaints: 4
+			Loud Clunking In Rear Shocks Area - 1
+			Not Keeping Alignment - 1
+			Rear Shocks Leaking - 1
+			Vibration Felt While Driving - 1
+	windows_windshield
+		NHTSA Complaints: 11
+			Visibility - 5
+			Visibility: Defroster/Defogger/Hvac System - 2
+			Visibility: Power Window Devices And Controls - 2
+			Visibility: Glass, Side/Rear - 1
+			Visibility: Windshield Wiper/Washer - 1
+		User Complaints: 4
+			Power Windows Stopped Working - 2
+			Weatherstrip Cracking - 1
+	accessories-interior
+		NHTSA Complaints: 11
+			Equipment - 6
+			Seats - 4
+			Equipment Adaptive/Mobility - 1
+		User Complaints: 3
+			Sun Visor Flops Down Over Bumps - 2
+			Poor Quality Interior - 1
+	wheels_hubs
+		NHTSA Complaints: 7
+			Wheels - 5
+			Tires - 1
+			Wheels: Lugs/Nuts/Bolts - 1
+		User Complaints: 2
+			Wheel Bolts &amp; Lug Nuts Rusted - 2
+	seat_belts_air_bags
+		NHTSA Complaints: 77
+			Air Bags - 48
+			Seat Belts - 18
+			Air Bags: Side/Window - 8
+			Air Bags: Frontal - 2
+			Air Bags: Sensor: Occupant Classification - 1
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 26
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 11
+			Structure - 3
+			Structure: Body: Door  - 1
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline - 7
+			Fuel/Propulsion System - 7
+			Fuel System, Other - 1
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 7
+			Latches/Locks/Linkages - 1
+			Latches/Locks/Linkages: Hood: Latch - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 3
+		User Complaints: 0
+
+2007: 350
+	engine
+		NHTSA Complaints: 335
+			Engine - 194
+			Vehicle Speed Control - 90
+			Engine And Engine Cooling - 29
+			Engine And Engine Cooling: Engine - 12
+			Vehicle Speed Control: Cruise Control - 7
+			Vehicle Speed Control: Accelerator Pedal - 3
+		User Complaints: 194
+			Excessive Oil Consumption - 164
+			Oxygen Sensor Failure - 9
+			Engine Faliure - 7
+			Check Engine Light On - 4
+			Engine Knocking - 3
+			Cold Start Engine Rattle - 2
+			Cracked Head Gasket - 1
+			Engine Stalls/Dies While Driving - 1
+			Engine Ticking - 1
+			Rough Idle When AC Is On - 1
+			Surging At Low Speed - 1
+	steering
+		NHTSA Complaints: 270
+			Steering - 265
+			Steering: Column - 2
+			Steering: Linkages: Tie Rod Assembly - 2
+			Steering: Electric Power Assist System - 1
+		User Complaints: 44
+			Clunking Sound In Front Steering - 2
+			Power Steering Stopped Working - 1
+			Squealing From Right Front - 1
+	exhaust_system
+		NHTSA Complaints: 1
+			Engine And Engine Cooling: Exhaust System - 1
+		User Complaints: 24
+			Exhaust Leak - 21
+			Catalytic Converter Bad - 2
+			Especially Loud When Accelerating - 1
+	body_paint
+		NHTSA Complaints: 21
+			Structure: Body - 10
+			Structure - 4
+			Structure: Body: Door  - 3
+			Structure: Frame And Members - 3
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 12
+			Paint Rusts, Chips, And Peels - 7
+			Clearcoat Deteriorating - 3
+			Poor Bumper Design - 1
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 11
+			Water Pump Failed - 3
+			Cooling System Failure - 2
+			Coolent Running Out - 1
+	accessories-interior
+		NHTSA Complaints: 9
+			Seats - 5
+			Equipment Adaptive/Mobility - 2
+			Equipment - 1
+			Seats: Front Assembly: Power Adjust - 1
+		User Complaints: 9
+			4wd/Vsc Lights On - 3
+			Sun Visor Falls Down - 2
+			Creaking Springs In Driver's Seat - 1
+			Ignition Locks Up, - 1
+	transmission
+		NHTSA Complaints: 13
+			Power Train: Automatic Transmission - 11
+			Power Train: Automatic Transmission: Control Module (Tcm, ... - 2
+		User Complaints: 8
+			Transmission Failure - 4
+			Difficulties Shifting - 3
+			Transmission Noise - 1
+	electrical
+		NHTSA Complaints: 71
+			Electrical System - 67
+			Electrical System: 12v/24v/48v Battery - 3
+			Electrical System: Instrument Cluster/Panel - 1
+		User Complaints: 7
+			Alternator Failure - 2
+			Battery Not Holding Charge - 1
+			Electrical Gremlins - 1
+			Loss Of Power While Driving - 1
+			Sensor Wiring, Connector Short - 1
+			Shut Down While Driving - 1
+	drivetrain
+		NHTSA Complaints: 39
+			Power Train - 37
+			Power Train: Driveline: Differential Unit - 1
+			Power Train: Driveline: Driveshaft - 1
+		User Complaints: 6
+			Banging Sound In Reverse - 2
+			Driveshaft Fell Off - 2
+			Humming Noise Around 50 Mph - 1
+			Whining Noise Upon Acceleration - 1
+	suspension
+		NHTSA Complaints: 124
+			Suspension - 119
+			Suspension: Rear - 5
+		User Complaints: 6
+			Groaning From Rear Suspension - 2
+			Ball Joint Linkage Worn Out - 1
+			Control Arm Broke - 1
+			Rattling In The Front Struts - 1
+			Rear Tie Rod Broken - 1
+	windows_windshield
+		NHTSA Complaints: 27
+			Visibility - 12
+			Visibility: Power Window Devices And Controls - 12
+			Visibility: Sun/Moon Roof Assembly - 2
+			Visibility: Glass, Side/Rear - 1
+		User Complaints: 6
+			Back Glass Broken - 3
+			Rear Wiper Doesn't Work - 1
+			Windshield Breaks, Chips - 1
+	brakes
+		NHTSA Complaints: 66
+			Service Brakes - 26
+			Electronic Stability Control - 17
+			Service Brakes, Hydraulic - 14
+			Service Brakes, Electric - 2
+			Service Brakes, Air: Supply: Check Valve - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited Slip: Wheel Speed ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 1
+			Service Brakes, Hydraulic: Power Assist: Vacuum - 1
+			Service Brakes, Hydraulic: Power Assist: Vacuum: Hoses, Lines/Piping, And ... - 1
+			Traction Control System - 1
+		User Complaints: 5
+			Abs Light On - 2
+			Brake Booster Failure - 2
+			Sudden Brake Lockup - 1
+	fuel_system
+		NHTSA Complaints: 22
+			Fuel/Propulsion System - 10
+			Fuel System, Gasoline - 8
+			Fuel System, Other - 2
+			Fuel System, Gasoline: Delivery: Hoses, Lines/Piping, And ... - 1
+			Fuel System, Other: Delivery - 1
+		User Complaints: 5
+			Charcoal Filter Assembly Failed - 4
+			Poor Gas Mileage - 1
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 4
+			Mice Get In Venting System - 1
+			Noisy Blower Motor - 1
+			Not Working Properly - 1
+			Water On Floor From AC - 1
+	accessories-exterior
+		NHTSA Complaints: 26
+			Visibility/Wiper - 24
+			Latches/Locks/Linkages - 2
+		User Complaints: 3
+			Remote Starter Malfunction - 2
+	wheels_hubs
+		NHTSA Complaints: 28
+			Wheels - 22
+			Tires: Pressure Monitoring And Regulating Systems - 2
+			Tires - 1
+			Tires: Temporary/Emergency Spare Tire - 1
+			Tires: Valve - 1
+			Wheels: Rim  - 1
+		User Complaints: 3
+			Hub Caps Fall Off - 1
+			Wheel Rust - 1
+	lights
+		NHTSA Complaints: 4
+			Exterior Lighting - 3
+			Exterior Lighting: Headlights - 1
+		User Complaints: 1
+			Signal Lights Failure - 1
+	miscellaneous
+		NHTSA Complaints: 33
+			Unknown Or Other - 33
+		User Complaints: 1
+			Service Contracts - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 118
+			Air Bags - 88
+			Seat Belts - 19
+			Air Bags: Side/Window - 6
+			Air Bags: Frontal - 4
+			Air Bags: Frontal: Driver Clockspring/Spiral Cassette - 1
+		User Complaints: 1
+			Airbag Light On - 1
+
+2006: 190
+	engine
+		NHTSA Complaints: 215
+			Engine - 107
+			Vehicle Speed Control - 69
+			Engine And Engine Cooling - 22
+			Engine And Engine Cooling: Engine - 11
+			Vehicle Speed Control: Accelerator Pedal - 6
+		User Complaints: 95
+			Excessive Oil Consumption - 82
+			Defective Engine Design - 3
+			Limp Mode - 2
+			Coil-On-Plug Failure - 1
+			Grinding Noise From Engine - 1
+			Idle Drops And Idles Roughly - 1
+			Irratic Idling - 1
+			Smoking Too Much - 1
+			Squealing Noise - 1
+			Stuck Accelorater - 1
+	steering
+		NHTSA Complaints: 227
+			Steering - 219
+			Steering: Column - 3
+			Steering: Rack And Pinion - 2
+			Steering: Electric Power Assist System - 1
+			Steering: Hydraulic Power Assist System - 1
+			Steering: Rack And Pinion: Pinion Shaft - 1
+		User Complaints: 41
+			Clunking Noise When Steering - 37
+			Loss Of Power Steering - 4
+	body_paint
+		NHTSA Complaints: 21
+			Structure - 13
+			Structure: Body - 6
+			Structure: Frame And Members - 2
+		User Complaints: 11
+			Water Leaking Into Interior - 10
+			Frame Rotted Through - 1
+	transmission
+		NHTSA Complaints: 21
+			Power Train: Automatic Transmission - 20
+			Power Train: Automatic Transmission: Control Module (Tcm, ... - 1
+		User Complaints: 11
+			Hum And Vibration While Driving - 5
+			Jerking In Reverse - 3
+			Transmission Failure - 3
+	AC_heater
+		NHTSA Complaints: 0
+		User Complaints: 6
+			Heavy Interior Fog - 3
+			A/C Not Working Properly - 1
+			AC Unit Failed Completely - 1
+	brakes
+		NHTSA Complaints: 48
+			Service Brakes - 13
+			Electronic Stability Control - 12
+			Service Brakes, Hydraulic - 11
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 3
+			Traction Control System - 3
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited Slip: Wheel Speed ... - 2
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited Slip: Abs Warning ... - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited Slip: Control Unit/Module ... - 1
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+		User Complaints: 6
+			ABS And Vsc Lights On - 2
+			Slow Braking Action - 1
+			Traction Control Computer Failure - 1
+	accessories-interior
+		NHTSA Complaints: 8
+			Equipment - 3
+			Seats - 3
+			Seats: Front Assembly: Head Restraint - 1
+			Seats: Front Assembly: Recliner - 1
+		User Complaints: 4
+			Dash Board Lights Are Not Working - 1
+			Factory Radio Died - 1
+			Key Stuck In Ignition - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 66
+			Air Bags - 51
+			Seat Belts - 7
+			Air Bags: Frontal - 6
+			Air Bags: Side/Window - 1
+			Seat Belts: Front: Anchorage - 1
+		User Complaints: 4
+			Air Bag Light Stays On - 1
+			Curtain Air Bag Keeps Popping Out - 1
+			Seat Belt Latch Broke - 1
+			Seat Belt Locks Up - 1
+	drivetrain
+		NHTSA Complaints: 33
+			Power Train - 30
+			Power Train: Axle Hubs - 1
+			Power Train: Driveline: Constant Velocity Joint - 1
+			Power Train: Transfer Case (4-Wheel Drive) - 1
+		User Complaints: 3
+			Whining Noise - 2
+	exhaust_system
+		NHTSA Complaints: 7
+			Engine And Engine Cooling: Exhaust System - 4
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 2
+			Engine And Engine Cooling: Exhaust System: Manifold/Header/Muffler/Tail ... - 1
+		User Complaints: 3
+			Exhaust Rusted Through - 3
+	cooling_system
+		NHTSA Complaints: 2
+			Engine And Engine Cooling: Cooling System - 2
+		User Complaints: 2
+			Water Pump Failure - 2
+	electrical
+		NHTSA Complaints: 41
+			Electrical System - 34
+			Electrical System: Ignition - 3
+			Electrical System: Instrument Cluster/Panel - 3
+			Electrical System: Software - 1
+		User Complaints: 1
+			Multiple Electrical Problems - 1
+	miscellaneous
+		NHTSA Complaints: 21
+			Unknown Or Other - 21
+		User Complaints: 1
+	suspension
+		NHTSA Complaints: 70
+			Suspension - 66
+			Suspension: Front - 2
+			Suspension: Rear - 2
+		User Complaints: 1
+			Strut Failure - 1
+	wheels_hubs
+		NHTSA Complaints: 17
+			Wheels - 12
+			Tires - 4
+			Tires: Pressure Monitoring And Regulating Systems - 1
+		User Complaints: 1
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline - 14
+			Fuel/Propulsion System - 9
+			Fuel System, Gasoline: Delivery - 1
+			Fuel System, Gasoline: Fuel Injection System - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility - 16
+			Visibility: Windshield - 2
+			Visibility: Glass, Side/Rear - 1
+			Visibility: Power Window Devices And Controls - 1
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 9
+			Latches/Locks/Linkages - 2
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting - 3
+			Exterior Lighting: Brake Lights - 1
+			Exterior Lighting: Headlights - 1
+			Exterior Lighting: Tail Lights - 1
+		User Complaints: 0
+
+2005: 27
+	engine
+		NHTSA Complaints: 26
+			Vehicle Speed Control - 11
+			Engine - 9
+			Engine And Engine Cooling - 5
+			Vehicle Speed Control: Cruise Control - 1
+		User Complaints: 12
+			Excessive Oil Consumption - 5
+			Engine Head Bolts Stripped - 2
+			Engine Valve Broke Off - 2
+			Engine Stalls While Driving - 1
+	transmission
+		NHTSA Complaints: 3
+			Power Train: Automatic Transmission - 3
+		User Complaints: 5
+			Transmission Failure - 3
+			Clicking Sound - 1
+			Gets Stuck In Gear - 1
+	brakes
+		NHTSA Complaints: 16
+			Service Brakes - 6
+			Electronic Stability Control - 5
+			Service Brakes, Hydraulic - 3
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+		User Complaints: 2
+			Unintended Braking - 2
+	lights
+		NHTSA Complaints: 0
+		User Complaints: 2
+			Warning Light For Tire Pressure - 2
+	steering
+		NHTSA Complaints: 9
+			Steering - 8
+			Steering: Linkages: Tie Rod Assembly - 1
+		User Complaints: 2
+			Clunking Noise In Steering - 2
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Leaking Antifreeze - 1
+	electrical
+		NHTSA Complaints: 6
+			Electrical System - 5
+			Electrical System: Horn - 1
+		User Complaints: 1
+	exhaust_system
+		NHTSA Complaints: 1
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 1
+		User Complaints: 1
+			Exhaust Pipe Rusted - 1
+	fuel_system
+		NHTSA Complaints: 2
+			Fuel System, Gasoline: Delivery: Hoses, Lines/Piping, And ... - 1
+			Fuel/Propulsion System - 1
+		User Complaints: 1
+			Gas Tank Strap Fell Off - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 58
+			Seat Belts - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 9
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires: Pressure Monitoring And Regulating Systems - 5
+			Wheels - 2
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility - 3
+			Visibility: Windshield - 2
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 4
+			Structure - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 4
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 4
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility/Wiper - 3
+		User Complaints: 0
+
+2004: 20
+	engine
+		NHTSA Complaints: 44
+			Vehicle Speed Control - 18
+			Engine - 11
+			Engine And Engine Cooling - 9
+			Engine And Engine Cooling: Engine - 4
+			Vehicle Speed Control: Accelerator Pedal - 2
+		User Complaints: 5
+			Accelerates With Hesitatation - 1
+			Timing Belt Problem - 1
+	transmission
+		NHTSA Complaints: 9
+			Power Train: Automatic Transmission - 8
+			Power Train: Automatic Transmission: Lever And Linkage: Floor ... - 1
+		User Complaints: 4
+			Transmission Failure - 3
+			Hard Shifting - 1
+	accessories-interior
+		NHTSA Complaints: 0
+		User Complaints: 2
+			Driver Side Sun Visor Broken - 2
+	accessories-exterior
+		NHTSA Complaints: 4
+			Visibility/Wiper - 4
+		User Complaints: 1
+			Sunroof Leaks Into Car - 1
+	body_paint
+		NHTSA Complaints: 4
+			Structure: Body - 2
+			Structure - 1
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 1
+			Water On Drivers Side Floor - 1
+	brakes
+		NHTSA Complaints: 14
+			Electronic Stability Control - 7
+			Service Brakes - 2
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 2
+			Traction Control System - 2
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+		User Complaints: 1
+			Jerks When Stopping - 1
+	electrical
+		NHTSA Complaints: 8
+			Electrical System - 7
+			Electrical System: Software - 1
+		User Complaints: 1
+	fuel_system
+		NHTSA Complaints: 2
+			Fuel System, Gasoline: Fuel Injection System - 1
+			Fuel System, Other - 1
+		User Complaints: 1
+			Gas Pedal Sensor Failure - 1
+	miscellaneous
+		NHTSA Complaints: 4
+			Unknown Or Other - 4
+		User Complaints: 1
+			Mice Entering Car Through Intake - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 50
+			Air Bags - 44
+			Air Bags: Frontal - 3
+			Air Bags: Side/Window - 1
+			Seat Belts - 1
+			Seat Belts: Front - 1
+		User Complaints: 1
+			Air Bag Dash Indicator On - 1
+	steering
+		NHTSA Complaints: 2
+			Steering - 2
+		User Complaints: 1
+			Vehicle Stability Light Goes On - 1
+	suspension
+		NHTSA Complaints: 2
+			Suspension - 2
+		User Complaints: 1
+			Joint Boots Failed - 1
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 10
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Glass, Side/Rear - 4
+			Visibility - 2
+			Visibility: Windshield - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 1
+			Engine And Engine Cooling: Exhaust System: Emission Control: Catalytic ... - 1
+			Engine And Engine Cooling: Exhaust System: Emission Control: Gas Recirculation Valve (Egr ... - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 2
+			Tires: Pressure Monitoring And Regulating Systems - 1
+		User Complaints: 0
+	cooling_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Cooling System - 2
+			Engine And Engine Cooling: Cooling System: Fan - 1
+		User Complaints: 0
+
+2003: 146
+	transmission
+		NHTSA Complaints: 108
+			Power Train: Automatic Transmission - 105
+			Power Train: Automatic Transmission: Control Module (Tcm, ... - 2
+			Power Train: Automatic Transmission: Lever And Linkage: Floor ... - 1
+		User Complaints: 120
+			Transmission And Ecm Failed - 21
+			Problem With Ecm - 20
+			Transmission Jerks - 19
+			Transmission Failure - 4
+			Loss Of Power - 1
+			Transmission Slipping - 1
+	engine
+		NHTSA Complaints: 73
+			Vehicle Speed Control - 26
+			Engine - 20
+			Engine And Engine Cooling - 15
+			Engine And Engine Cooling: Engine - 8
+			Engine And Engine Cooling: Engine: Gasoline: Belts And Associated ... - 2
+			Vehicle Speed Control: Accelerator Pedal - 1
+			Vehicle Speed Control: Cruise Control - 1
+		User Complaints: 12
+			Oil Sludge In Engine - 7
+			Engine Check Light On - 1
+			Excessive Oil Consumption - 1
+			Kicks Out Of Gear - 1
+			Loss Of Power While Driving - 1
+			Smoking At Start Up - 1
+	drivetrain
+		NHTSA Complaints: 98
+			Power Train - 98
+		User Complaints: 4
+			Downshifts When Braking - 1
+	electrical
+		NHTSA Complaints: 42
+			Electrical System - 39
+			Electrical System: 12v/24v/48v Battery: Cables - 1
+			Electrical System: Wiring: Front Underhood - 1
+			Electrical System: Wiring: Interior/Under Dash - 1
+		User Complaints: 4
+			Hesitating And Stuttering - 3
+			Car Caught On Fire - 1
+	accessories-interior
+		NHTSA Complaints: 0
+		User Complaints: 3
+			Mysterious Rattle - 2
+			Sun Visor Drops - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 18
+			Air Bags: Frontal - 6
+			Air Bags - 4
+			Seat Belts - 4
+			Air Bags: Side/Window - 1
+			Seat Belts: Front - 1
+			Seat Belts: Front: Buckle Assembly - 1
+			Seat Belts: Front: Retractor - 1
+		User Complaints: 2
+			Air Bag Did Not Deploy - 1
+			Seat Belt Excessively Frayed - 1
+	body_paint
+		NHTSA Complaints: 7
+			Structure: Body - 3
+			Structure - 2
+			Structure: Frame And Members - 1
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 1
+			Paint Is Oxidized - 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 15
+		User Complaints: 0
+	brakes
+		NHTSA Complaints: 0
+			Electronic Stability Control - 7
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline - 2
+			Fuel/Propulsion System - 2
+			Fuel System, Gasoline: Storage: Tank Assembly - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility - 3
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering: Linkages: Tie Rod Assembly - 2
+			Steering - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 1
+		User Complaints: 0
+
+2002: 519
+	transmission
+		NHTSA Complaints: 258
+			Power Train: Automatic Transmission - 252
+			Power Train: Automatic Transmission: Control Module (Tcm, ... - 4
+			Power Train: Manual Transmission - 2
+		User Complaints: 369
+			Problems Shifting - 137
+			Jerking And Hesitating - 125
+			Transmission Failure - 49
+	engine
+		NHTSA Complaints: 92
+			Vehicle Speed Control - 33
+			Engine And Engine Cooling - 22
+			Engine - 21
+			Engine And Engine Cooling: Engine - 12
+			Vehicle Speed Control: Accelerator Pedal - 2
+			Engine And Engine Cooling: Engine: Gasoline - 1
+			Engine And Engine Cooling: Engine: Gasoline: Belts And Associated ... - 1
+		User Complaints: 109
+			Engine Control Module Failure - 69
+			Check Engine Light On - 11
+			Engine Seized Up - 5
+			Bad Head Gasket - 2
+			Ecm Malfunction - 1
+			Rough Idle/ Engine Mis-Firing - 1
+	accessories-interior
+		NHTSA Complaints: 2
+			Equipment: Mechanical: Carrier/Rack - 1
+			Interior Lighting - 1
+		User Complaints: 12
+			Won't Go Into Gear - 7
+			Door Locks Not Working - 3
+			Parking Brake Light Does Not Show - 1
+			Stick Shift Vibration - 1
+	exhaust_system
+		NHTSA Complaints: 3
+			Engine And Engine Cooling: Exhaust System - 2
+			Engine And Engine Cooling: Exhaust System: Emission Control: Catalytic ... - 1
+		User Complaints: 10
+	body_paint
+		NHTSA Complaints: 5
+			Structure - 2
+			Structure: Body: Bumpers - 1
+			Structure: Frame And Members - 1
+			Structure: Frame And Members: Underbody Shields - 1
+		User Complaints: 6
+			Paint Peeling - 2
+			Premature, Excessive Rusting - 1
+			Water Leaking In - 1
+	electrical
+		NHTSA Complaints: 89
+			Electrical System - 84
+			Electrical System: Wiring: Front Underhood - 2
+			Electrical System: 12v/24v/48v Battery - 1
+			Electrical System: Ignition - 1
+			Electrical System: Wiring - 1
+		User Complaints: 4
+			Engine Won't Turn Over,Won't Start - 2
+			Alarm Goes Off Randomly - 1
+	drivetrain
+		NHTSA Complaints: 114
+			Power Train - 114
+		User Complaints: 2
+			Differential Whine - 1
+	wheels_hubs
+		NHTSA Complaints: 1
+			Tires - 1
+		User Complaints: 2
+			Vibrating Sound While Accelerating - 2
+	accessories-exterior
+		NHTSA Complaints: 5
+			Latches/Locks/Linkages - 5
+		User Complaints: 1
+			Door Does Not Unlock From Outside - 1
+	brakes
+		NHTSA Complaints: 20
+			Electronic Stability Control - 15
+			Service Brakes, Hydraulic - 3
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 1
+		User Complaints: 1
+			Steering Shakes When Slowing Down - 1
+	fuel_system
+		NHTSA Complaints: 6
+			Fuel System, Gasoline - 4
+			Fuel System, Other: Delivery - 1
+			Fuel/Propulsion System - 1
+		User Complaints: 1
+			Unintended Acceleration - 1
+	lights
+		NHTSA Complaints: 2
+			Exterior Lighting - 1
+			Exterior Lighting: Headlights - 1
+		User Complaints: 1
+	windows_windshield
+		NHTSA Complaints: 2
+			Visibility: Glass, Side/Rear - 1
+			Visibility: Windshield Wiper/Washer: Linkages - 1
+		User Complaints: 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 17
+			Air Bags: Frontal - 5
+			Air Bags: Side/Window - 1
+			Seat Belts - 1
+			Seat Belts: Front: Retractor - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 23
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 7
+			Steering: Rack And Pinion - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 3
+			Suspension: Rear - 1
+		User Complaints: 0
+
+2001: 210
+	transmission
+		NHTSA Complaints: 127
+			Power Train: Automatic Transmission - 121
+			Power Train: Manual Transmission - 4
+			Power Train: Automatic Transmission: Control Module (Tcm, ... - 1
+			Power Train: Manual Transmission: Floor Shift ... - 1
+		User Complaints: 182
+			Problems Shifting - 119
+			Problem With The ECM - 58
+			Died While Driving - 1
+	electrical
+		NHTSA Complaints: 60
+			Electrical System - 57
+			Electrical System: Ignition: Module - 1
+			Electrical System: Software - 1
+			Electrical System: Wiring: Front Underhood - 1
+		User Complaints: 11
+			Ecm Failure - 9
+	engine
+		NHTSA Complaints: 52
+			Vehicle Speed Control - 22
+			Engine And Engine Cooling - 13
+			Engine - 9
+			Engine And Engine Cooling: Engine - 6
+			Engine And Engine Cooling: Engine: Gasoline - 1
+			Vehicle Speed Control: Accelerator Pedal - 1
+		User Complaints: 10
+			Check Engine Light Turned On - 4
+			Blown Engine - 2
+			Engine Stops When Running - 1
+			Head Gasket Leak - 1
+			Stalling - 1
+			Sudden Unintended Acceleration - 1
+	fuel_system
+		NHTSA Complaints: 4
+			Fuel System, Gasoline - 4
+		User Complaints: 3
+			Check Engine Light Is On - 2
+			Check Engine Light Came On - 1
+	accessories-interior
+		NHTSA Complaints: 1
+			Equipment: Appliance: Air Conditioner - 1
+		User Complaints: 1
+			Power Door Lock Not Working - 1
+	clutch
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Trouble Shifting - 1
+	exhaust_system
+		NHTSA Complaints: 8
+			Engine And Engine Cooling: Exhaust System - 4
+			Engine And Engine Cooling: Exhaust System: Emission Control ... - 3
+			Engine And Engine Cooling: Exhaust System: Emission Control: Catalytic ... - 1
+		User Complaints: 1
+			Catalytic Converter Failure - 1
+	windows_windshield
+		NHTSA Complaints: 11
+			Visibility: Windshield - 7
+			Visibility: Defroster/Defogger/Hvac System - 1
+			Visibility: Glass, Side/Rear - 1
+			Visibility: Power Window Devices And Controls - 1
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 1
+			Water Leaking Into Interior - 1
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 62
+		User Complaints: 0
+	brakes
+		NHTSA Complaints: 0
+			Electronic Stability Control - 8
+			Service Brakes, Hydraulic: Foundation Components: ... - 6
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 4
+			Service Brakes, Hydraulic: Foundation Components - 4
+			Service Brakes, Hydraulic: Foundation Components: ... - 3
+			Service Brakes - 2
+			Service Brakes, Hydraulic - 2
+			Parking Brake - 1
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 1
+			Service Brakes, Hydraulic: Pedals And Linkages - 1
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags: Frontal - 7
+			Air Bags - 5
+			Seat Belts - 3
+			Seat Belts: Front: Buckle Assembly - 1
+			Seat Belts: Rear/Other - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 12
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure - 3
+			Structure: Body - 2
+			Structure: Body: Door  - 2
+			Structure: Frame And Members - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 4
+			Steering: Linkages - 1
+			Steering: Linkages: Tie Rod Assembly - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 2
+			Suspension: Front - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 3
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Visibility: Rearview Mirrors/Devices - 1
+		User Complaints: 0
+
+2000: 8
+	engine
+		NHTSA Complaints: 9
+			Vehicle Speed Control - 7
+			Engine - 2
+		User Complaints: 3
+			Engine Misfiring - 1
+			Engine Stalls When Braking - 1
+	brakes
+		NHTSA Complaints: 1
+			Service Brakes, Hydraulic - 1
+		User Complaints: 2
+			Brakes Lock Up Sporatically - 1
+			Sometimes Brakes Don't Work - 1
+	transmission
+		NHTSA Complaints: 5
+			Power Train: Manual Transmission - 4
+			Power Train: Automatic Transmission - 1
+		User Complaints: 2
+			Transmission Failure - 1
+	cooling_system
+		NHTSA Complaints: 0
+		User Complaints: 1
+			Water Pump Stopped Working - 1
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 2
+			Wheels: Hubcap/Cover - 1
+			Wheels: Rim  - 1
+			Wheels: Space Saver Wheel - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Windshield - 3
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 1
+			Seat Belts: Front: Anchorage - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline: Fuel Injection System - 1
+			Fuel System, Gasoline: Storage: Tank Assembly - 1
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 1
+			Structure: Frame And Members - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 1
+		User Complaints: 0
+	accessories-interior
+		NHTSA Complaints: 0
+			Equipment: Appliance: Air Conditioner - 1
+		User Complaints: 0
+
+1999: 13
+	engine
+		NHTSA Complaints: 17
+			Vehicle Speed Control - 11
+			Engine And Engine Cooling: Engine: Gasoline - 2
+			Engine And Engine Cooling: Engine - 1
+			Vehicle Speed Control: Accelerator Pedal - 1
+			Vehicle Speed Control: Cruise Control - 1
+			Vehicle Speed Control: Linkages - 1
+		User Complaints: 4
+			Rattling Valves When First Started - 1
+			Sputters And Chokes - 1
+	transmission
+		NHTSA Complaints: 4
+			Power Train: Manual Transmission - 2
+			Power Train: Automatic Transmission - 1
+			Power Train: Automatic Transmission: Park/Neutral Start Interlock ... - 1
+		User Complaints: 3
+	body_paint
+		NHTSA Complaints: 6
+			Structure: Body - 3
+			Structure: Frame And Members - 3
+		User Complaints: 2
+			Frame Rusted - 1
+			Rust Hole On Frame - 1
+	fuel_system
+		NHTSA Complaints: 4
+			Fuel System, Gasoline: Storage: Tank Assembly - 2
+			Fuel System, Gasoline - 1
+			Fuel System, Other: Storage: Fuel Gauge System - 1
+		User Complaints: 2
+			Accelerator Pedal Sticks - 1
+			Car Would Not Stop - 1
+	brakes
+		NHTSA Complaints: 5
+			Service Brakes, Hydraulic: Foundation Components - 2
+			Service Brakes, Hydraulic - 1
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: Pads ... - 1
+		User Complaints: 1
+	suspension
+		NHTSA Complaints: 4
+			Suspension: Front: Control Arm - 2
+			Suspension - 1
+			Suspension: Rear: Shock Absorber - 1
+		User Complaints: 1
+			Completely Rusted Through - 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 8
+			Air Bags: Frontal - 5
+			Seat Belts: Front - 1
+			Seat Belts: Front: Anchorage - 1
+			Seat Belts: Front: Buckle Assembly - 1
+		User Complaints: 0
+	electrical
+		NHTSA Complaints: 0
+			Electrical System - 4
+			Electrical System: Wiring - 1
+			Electrical System: Wiring: Front Underhood - 1
+			Electrical System: Wiring: Fuses And Circuit Breakers - 1
+		User Complaints: 0
+	accessories-interior
+		NHTSA Complaints: 0
+			Equipment: Electrical: Radio/Tape Deck/Cd Etc. - 1
+			Seats - 1
+			Seats: Front Assembly: Head Restraint - 1
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Trailer Hitches - 1
+			Visibility: Rearview Mirrors/Devices: Exterior - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Manifold/Header/Muffler/Tail ... - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Wheels: Lugs/Nuts/Bolts - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Sun/Moon Roof Assembly - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 1
+		User Complaints: 0
+
+1998: 8
+	engine
+		NHTSA Complaints: 19
+			Vehicle Speed Control - 6
+			Vehicle Speed Control: Accelerator Pedal - 5
+			Engine And Engine Cooling: Engine - 2
+			Engine And Engine Cooling: Engine: Gasoline - 2
+			Vehicle Speed Control: Linkages - 2
+			Engine - 1
+			Engine And Engine Cooling - 1
+		User Complaints: 4
+			Check Engine Light On - 3
+			Stalls And Loses Power - 1
+	transmission
+		NHTSA Complaints: 6
+			Power Train: Automatic Transmission - 4
+			Power Train: Manual Transmission - 2
+		User Complaints: 2
+			Slips Out Of Gear - 1
+	accessories-interior
+		NHTSA Complaints: 3
+			Child Seat - 1
+			Equipment: Appliance: Air Conditioner - 1
+			Equipment: Electrical: Radio/Tape Deck/Cd Etc. - 1
+		User Complaints: 1
+	fuel_system
+		NHTSA Complaints: 3
+			Fuel System, Gasoline - 2
+			Fuel System, Gasoline: Storage: Tank Assembly: Filler Pipe And ... - 1
+		User Complaints: 1
+			Stiff Gas Pedal - 1
+	brakes
+		NHTSA Complaints: 0
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 4
+			Service Brakes, Hydraulic: Foundation Components - 4
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 3
+			Service Brakes - 2
+			Parking Brake: Conventional: Mechanical - 1
+			Service Brakes, Air: Disc: Rotor - 1
+			Service Brakes, Hydraulic - 1
+			Service Brakes, Hydraulic: Foundation Components: ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+			Service Brakes, Hydraulic: Power Assist - 1
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags: Frontal - 7
+			Air Bags - 5
+			Seat Belts - 3
+			Air Bags: Frontal: Sensor/Control Module - 1
+			Seat Belts: Front: Retractor - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 2
+			Power Train: Driveline: Differential Unit - 1
+			Power Train: Driveline: Driveshaft - 1
+		User Complaints: 0
+	electrical
+		NHTSA Complaints: 0
+			Electrical System: 12v/24v/48v Battery - 1
+			Electrical System: Ignition - 1
+			Electrical System: Wiring: Fuses And Circuit Breakers - 1
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body - 2
+			Structure: Frame And Members - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 1
+			Suspension: Front - 1
+			Suspension: Rear: Shock Absorber - 1
+		User Complaints: 0
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 3
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 1
+			Wheels - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering - 1
+			Steering: Column Locking: Anti-Theft Device - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting: Brake Lights - 1
+			Exterior Lighting: Brake Lights: Switch - 1
+		User Complaints: 0
+	accessories-exterior
+		NHTSA Complaints: 0
+			Latches/Locks/Linkages: Hood: Latch - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Power Window Devices And Controls - 1
+		User Complaints: 0
+
+1997: 7
+	electrical
+		NHTSA Complaints: 3
+			Electrical System - 2
+			Electrical System: Ignition - 1
+		User Complaints: 2
+			Electrical Short - 1
+			Stereo Speakers Stopped Working - 1
+	accessories-exterior
+		NHTSA Complaints: 1
+			Latches/Locks/Linkages: Doors: Latch - 1
+		User Complaints: 1
+			Moonroof Stopped Working - 1
+	body_paint
+		NHTSA Complaints: 6
+			Structure: Frame And Members: Underbody Shields - 3
+			Structure: Frame And Members - 2
+			Structure: Body - 1
+		User Complaints: 1
+	drivetrain
+		NHTSA Complaints: 1
+			Power Train - 1
+		User Complaints: 1
+			Leaking Differential Fluid - 1
+	engine
+		NHTSA Complaints: 19
+			Engine And Engine Cooling: Engine: Gasoline - 7
+			Vehicle Speed Control - 4
+			Engine And Engine Cooling: Engine - 3
+			Engine - 2
+			Vehicle Speed Control: Accelerator Pedal - 1
+			Vehicle Speed Control: Cruise Control - 1
+			Vehicle Speed Control: Linkages - 1
+		User Complaints: 1
+			Engine Races When Idling - 1
+	suspension
+		NHTSA Complaints: 1
+			Suspension: Front: Wheel Bearing  - 1
+		User Complaints: 1
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags: Frontal - 3
+			Air Bags - 2
+			Seat Belts: Front: Anchorage - 1
+			Seat Belts: Front: Buckle Assembly - 1
+			Seat Belts: Front: Retractor - 1
+		User Complaints: 0
+	transmission
+		NHTSA Complaints: 0
+			Power Train: Manual Transmission - 5
+		User Complaints: 0
+	brakes
+		NHTSA Complaints: 0
+			Service Brakes, Hydraulic: Foundation Components - 2
+			Service Brakes, Electric - 1
+			Service Brakes, Hydraulic: Foundation Components: ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: Pads ... - 1
+		User Complaints: 0
+	accessories-interior
+		NHTSA Complaints: 0
+			Equipment: Appliance: Air Conditioner - 1
+			Seats - 1
+			Seats: Front Assembly: Recliner - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline: Carburetor System - 1
+			Fuel System, Gasoline: Storage: Tank Assembly - 1
+			Fuel System, Other - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires: Temporary/Emergency Spare Tire - 1
+			Wheels: Lugs/Nuts/Bolts - 1
+		User Complaints: 0
+	lights
+		NHTSA Complaints: 0
+			Exterior Lighting: Turn Signal - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Emission Control: Gas Recirculation Valve (Egr ... - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering: Steering Wheel/Handle Bar - 1
+		User Complaints: 0
+
+1996: 7
+	accessories-exterior
+		NHTSA Complaints: 4
+			Latches/Locks/Linkages: Doors: Latch - 2
+			Latches/Locks/Linkages - 1
+			Latches/Locks/Linkages: Tailgate: Latch - 1
+		User Complaints: 3
+			Car Door Won't Shut - 3
+	engine
+		NHTSA Complaints: 5
+			Engine And Engine Cooling: Engine - 2
+			Engine - 1
+			Engine And Engine Cooling: Engine: Gasoline - 1
+			Vehicle Speed Control: Accelerator Pedal - 1
+		User Complaints: 2
+			Engine Failure - 1
+			Engine Pings When Labouring - 1
+	transmission
+		NHTSA Complaints: 8
+			Power Train: Automatic Transmission - 3
+			Power Train: Automatic Transmission: Park/Neutral Start Interlock ... - 2
+			Power Train: Automatic Transmission: Gear Position Indication ... - 1
+			Power Train: Manual Transmission - 1
+			Power Train: Manual Transmission: Shift Pattern ... - 1
+		User Complaints: 2
+			Doesn't Accelerate Smoothly - 1
+	brakes
+		NHTSA Complaints: 0
+			Service Brakes, Hydraulic: Foundation Components: ... - 4
+			Service Brakes, Hydraulic: Antilock/Traction Control/Electronic Limited ... - 3
+			Service Brakes, Hydraulic: Foundation Components - 3
+			Service Brakes, Hydraulic: Foundation Components: Master ... - 2
+			Service Brakes, Hydraulic: Foundation Components: Disc: ... - 1
+			Service Brakes, Hydraulic: Foundation Components: Disc: Pads ... - 1
+		User Complaints: 0
+	seat_belts_air_bags
+		NHTSA Complaints: 0
+			Air Bags - 2
+			Air Bags: Frontal - 2
+			Seat Belts - 1
+			Seat Belts: Front: Retractor - 1
+		User Complaints: 0
+	accessories-interior
+		NHTSA Complaints: 0
+			Equipment: Mechanical: Accessory Scissor/Screw/Bottle ... - 1
+			Seats - 1
+			Seats: Front Assembly: Head Restraint - 1
+		User Complaints: 0
+	steering
+		NHTSA Complaints: 0
+			Steering: Column Locking: Anti-Theft Device - 1
+			Steering: Linkages: Knuckle: Spindle: Arm - 1
+		User Complaints: 0
+	suspension
+		NHTSA Complaints: 0
+			Suspension - 1
+			Suspension: Front: Macpherson Strut - 1
+		User Complaints: 0
+	exhaust_system
+		NHTSA Complaints: 0
+			Engine And Engine Cooling: Exhaust System: Emission Control: Catalytic ... - 2
+		User Complaints: 0
+	electrical
+		NHTSA Complaints: 0
+			Electrical System - 1
+			Electrical System: Horn - 1
+		User Complaints: 0
+	fuel_system
+		NHTSA Complaints: 0
+			Fuel System, Gasoline: Delivery: Hoses, Lines/Piping, And ... - 1
+			Fuel System, Gasoline: Storage: Tank Assembly: Filler Pipe And ... - 1
+		User Complaints: 0
+	wheels_hubs
+		NHTSA Complaints: 0
+			Tires - 1
+		User Complaints: 0
+	body_paint
+		NHTSA Complaints: 0
+			Structure: Body: Door  - 1
+		User Complaints: 0
+	drivetrain
+		NHTSA Complaints: 0
+			Power Train - 1
+		User Complaints: 0
+	windows_windshield
+		NHTSA Complaints: 0
+			Visibility: Defroster/Defogger/Hvac System - 1
+		User Complaints: 0
+
+1995: 1
+	engine
+		NHTSA Complaints: 0
+		User Complaints: 1
+	miscellaneous
+		NHTSA Complaints: 0
+			Unknown Or Other - 1
+		User Complaints: 0
